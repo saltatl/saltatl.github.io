@@ -1,4 +1,5 @@
 body {
 
-    background-image: "salt-under-construction.jpg";
+    background-image: url("salt-under-construction.jpg");
+    background-repeat: no-repeat;
 }
