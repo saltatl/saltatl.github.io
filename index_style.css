@@ -1,7 +1,9 @@
+body img {
+
+    size: 100%;
+
+}
+
 body {
-
-    /* background-image: url("salt-under-construction.jpg");
-    background-repeat: no-repeat;
-    background-size: 30%; */
-
+    background-color: #eda594;
 }
